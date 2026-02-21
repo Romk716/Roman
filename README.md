@@ -20,4 +20,4 @@
 - Запуск тестов (если есть): `pytest`
 
 ## Правила работы
-Подробнее о ветках и коммитах см. [docs/workflow.md](docs/workflow.md).
+Подробнее о ветках и коммитах см. [docs/workflow.md](docs/workflow.md). 
